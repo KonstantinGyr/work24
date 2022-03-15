@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kot/CLionProjects/HW24/birthdays/main.cpp
+iostream
+-
+map
+-
+iomanip
+-
+ctime
+-
+string
+-
+vector
+-
+cstdlib
+-
+

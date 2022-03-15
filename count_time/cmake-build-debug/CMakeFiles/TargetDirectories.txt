@@ -1,0 +1,3 @@
+C:/Users/Kot/CLionProjects/HW24/count_time/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kot/CLionProjects/HW24/count_time/cmake-build-debug/CMakeFiles/count_time.dir
+C:/Users/Kot/CLionProjects/HW24/count_time/cmake-build-debug/CMakeFiles/rebuild_cache.dir
